@@ -38,7 +38,7 @@ O HTML da página é organizado da seguinte forma:
     - para a requisição do tipo Fetch é criado o arquivo main_fetch.js
     - para a requisição do tipo Axios é criado o arquivo main_axios.js
 O documento "main.js" possui as seguintes instruções:  
-    -é instanciado o método através de "new XMLHttpRequest()" e armazenado em "xhr";  
+    - é instanciado o método através de "new XMLHttpRequest()" e armazenado em "xhr";  
     - é aberta uma requisição através de "xhr.open";  
     - é adicionado um evento para "escutar" quando a requisição foi carregada através de "addEventListener('load')";  
     - são verificados os status e para cada qual chamadas as funções de sucesso e erro;  
@@ -47,7 +47,7 @@ O documento "main.js" possui as seguintes instruções:
 
 # Link
 A hospedagem foi feita utilizando o GitHub, que oferece serviço de hospedagem de sites.
-- [URL do Site]()
+- [URL do Site](https://epfolletto.github.io/requisicao/)
 
 # Tecnologias
 <div>
